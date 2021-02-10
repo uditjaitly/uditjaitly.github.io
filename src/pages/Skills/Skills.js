@@ -18,6 +18,7 @@ const Skills = () => {
   return (
     <div className="" id="skills">
       <h1 className="title text-center">TECH SKILLS</h1>
+      <div className="container">
       <CardDeck>
         <Row className="d-flex justify-content-around">
           {/* Programming Lang */}
@@ -133,6 +134,7 @@ const Skills = () => {
             
         </Row>
       </CardDeck>
+      </div>
     </div>
   );
 };
