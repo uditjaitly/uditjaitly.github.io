@@ -1,0 +1,58 @@
+.logo {
+  width: 10%;
+  color: red;
+}
+
+.nav-theme {
+  background-color: transparent;
+  font-size: 15px;
+}
+
+.animate-navbar {
+
+  animation: moveDown 0.5s ease-in-out;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: red;
+}
+
+.nav-title {
+  font-family: Amatic SC;
+  font-size: larger;
+  color: orange;
+}
+.logo-udit{
+  font-family:'Chakra Petch';
+  display: inline;
+  color:var(--currentColorIcon)
+}
+.logo-jaitly{
+  font-family:'Chakra Petch';
+  display: inline;
+}
+
+.icon-container {
+  width: 4rem;
+  text-align: center;
+}
+.icon-container-toggle{
+  width: 4rem;
+  text-align: center;
+  padding-top: 1rem;
+}
+.icon-container i { 
+  color :var(--currentColorIcon);
+  font-size: 25px;
+}
+.icon-container h3 { 
+  color : var(--currentColorIcon);
+  font-size: 15px;
+}
+
+.fas:hover {
+  color:var(--currentColorHoverIcon) !important;
+}
+
+h3{
+  font-family: 'Chakra Petch';
+}

@@ -1,0 +1,19 @@
+
+.img-resize {
+    width: 10em;
+  }
+  
+  .style {
+    font-size: 14px;
+  }
+  
+  .jumbo-style {
+    background: transparent; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    opacity: 1;
+    
+  }
+  
+  .body-title-style {
+    font-size: 25px;
+    font-weight: 800;
+  }
