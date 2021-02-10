@@ -33,8 +33,8 @@ const About = () => {
                 currently pursuing my masters degree in Computer Science. I am
                 looking for full time opportunities starting May 21'. After my
                 intern period at Micro Focus where I deployed Apache Pulsar on
-                Google Cloud Platform, I am currently learning more about
-                micro-services.
+                Google Cloud Platform, I have been learning more about
+                micro-services, cloud and web-app development.
                 <Col className="d-flex justify-content-center flex-wrap">
                   {/*<div>
                     <a href="#contact">
