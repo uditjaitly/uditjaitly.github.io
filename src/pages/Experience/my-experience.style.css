@@ -1,6 +1,18 @@
 
 .img-resize {
+    width: 5em;
+    padding:0%;
+  
+
+  }
+  .img-resize-exp {
+    height: 2em;
     width: 10em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+
   }
   
   .style {
